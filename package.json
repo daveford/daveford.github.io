@@ -1,0 +1,23 @@
+{
+  "name": "daveford.github.io",
+  "version": "1.0.0",
+  "description": "David Ford's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveford/daveford.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveford/daveford.github.io/issues"
+  },
+  "homepage": "https://github.com/daveford/daveford.github.io#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
